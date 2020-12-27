@@ -1,0 +1,8 @@
+version: '3'
+services:
+  shellcode:
+    build:
+      context: challenge/
+    container_name: shellcode
+    ports:
+      - "30001:30001"

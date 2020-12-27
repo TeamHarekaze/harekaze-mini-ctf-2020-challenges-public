@@ -1,0 +1,8 @@
+version: '3'
+services:
+  kodama:
+    build:
+      context: challenge/
+    container_name: kodama
+    ports:
+      - "30003:30003"

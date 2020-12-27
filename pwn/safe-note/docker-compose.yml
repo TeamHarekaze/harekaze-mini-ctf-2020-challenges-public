@@ -1,0 +1,8 @@
+version: '3'
+services:
+  safenote:
+    build:
+      context: challenge/
+    container_name: safenote
+    ports:
+      - "30004:30004"
