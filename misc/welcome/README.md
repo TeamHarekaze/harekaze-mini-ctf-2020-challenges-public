@@ -1,18 +1,10 @@
 # [Misc] Welcome
-## Author
-Harekaze
-
 ## Description
 Harekaze mini CTF 2020へようこそ! フラグは `HarekazeCTF{4nch0rs_4we1gh}` です。
 
 ---
 
 Welcome to Harekaze mini CTF 2020! The flag is: `HarekazeCTF{4nch0rs_4we1gh}`.
-
----
-
-## Estimated Difficulty
-warmup
 
 ## Flag
 ```

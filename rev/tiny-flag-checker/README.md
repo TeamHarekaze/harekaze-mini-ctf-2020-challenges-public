@@ -1,12 +1,13 @@
 # [Rev] Tiny Flag Checker
 ## Description
-```
 キーを当ててください。
 
 ---
 
 Guess the key.
-```
+
+## Attachments
+- [distfiles/tiny](distfiles/tiny)
 
 ## Flag
 ```

@@ -1,6 +1,5 @@
 # [Web] JWT is secure
 ## Description
-```
 私は独自に作ったセッション機能は脆弱性を作り込みがちだということを学んだので、今回はJWT (JSON Web Token)を採用しました。
 
 ---
@@ -8,7 +7,9 @@
 I learned implementing a custom session function is prone to be insecure, so this time I adopted JWT (JSON Web Token).
 
 (URL)
-```
+
+## Attachments
+- [distfiles/](distfiles/)
 
 ## Flag
 ```

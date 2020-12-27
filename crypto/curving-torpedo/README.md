@@ -1,11 +1,14 @@
 # [Crypto] Curving Torpedo
 
 ## Description
-```
 メイちゃんは最近魚雷を曲げることに執心しているらしいです
+
 ---
+
 Mei-chan practices to make torpedo curve. 
-```
+
+## Attachments
+- [distfiles/](distfiles/)
 
 ## Flag
 ```

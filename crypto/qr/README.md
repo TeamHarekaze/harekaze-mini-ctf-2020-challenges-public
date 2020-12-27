@@ -1,12 +1,14 @@
 # [Crypto] QR
 
 ## Description
-
-```
 日本のCTFではQRコードに関連する問題がよく出題されます[要出典]
+
 ---
+
 There are a lot of tasks related to QR code on Japanese CTF. [Citation needed]
-```
+
+## Attachments
+- [distfiles/](distfiles/)
 
 ## Flag
 
